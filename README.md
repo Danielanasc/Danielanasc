@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou a @Danielanasc
+- 👀 Vim em busca de um novo mundo. Aprender a ajudar o próximo por meio da tecnologia. 
+- 🌱 Comecei meus estudos recentemente, e no momento estou estudando sobre algoritmos e lógica de programação.
+- 💞️ Pretendo trabalhar com aplicações web.
+- 📫 Você pode entrar em contato comigo por meio do meu perfil no Linkedin [Daniela Rodruigues](https://www.linkedin.com/in/daniela-rodrigues-375457213/)
